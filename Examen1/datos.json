@@ -1,0 +1,17 @@
+{
+    "Usuarios": {
+        "usuario": {
+            "nombre": "Victor Alejandro",
+            "identificacio": "1010155238",
+            "apellidos": "Pabon Villamizar",
+            "direccion": "Bucaramanga",
+            "Telefono": "3208558088",
+            "servicio": "Sin servicios",
+            "Estado": "En proceso de contratacion",
+            "serviciosContratados": [
+
+            
+            ]
+        }
+    }
+}
